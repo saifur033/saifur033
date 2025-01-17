@@ -108,27 +108,32 @@
 
 ## 🏆 **Awards & Achievements**
 
-<div style="position: relative; padding: 20px; border: 2px solid #4CAF50; border-radius: 10px; animation: glow 1.5s infinite;">
-  <h3 style="color: #4CAF50; font-size: 1.5em;">✨ Best Campus Ambassador</h3>
-  <p style="font-size: 1.1em;">Awarded for exceptional performance in promoting educational programs and engaging the student community.</p>
-</div>
+---
 
-<div style="position: relative; padding: 20px; border: 2px solid #2196F3; border-radius: 10px; animation: float 2s infinite;">
-  <h3 style="color: #2196F3; font-size: 1.5em;">🎖️ Best Volunteer Award</h3>
-  <p style="font-size: 1.1em;">Recognized for outstanding contributions and dedication during university events and initiatives.</p>
-</div>
+### ✨ **Best Campus Ambassador**  
+📅 *Awarded: January 2025*  
+🚀 *For exceptional performance in promoting educational programs and engaging the student community.*
 
-<div style="position: relative; padding: 20px; border: 2px solid #FF5722; border-radius: 10px; animation: pop 1.2s infinite;">
-  <h3 style="color: #FF5722; font-size: 1.5em;">🤖 Organizer, EWU National Robo Fest 2024</h3>
-  <p style="font-size: 1.1em;">Led the organization of a national-level robotics fest, fostering innovation and technical excellence.</p>
-</div>
+---
 
-<style>
-@keyframes glow {
-  0% { box-shadow: 0 0 5px #4CAF50; }
-  50% { box-shadow: 0 0 20px #4CAF50; }
-  100% { box-shadow: 0 0 5px #4CAF50; }
-}
+### 🎖️ **Best Volunteer Award**  
+📅 *Awarded: December 2024*  
+🌟 *Recognized for outstanding contributions and dedication during university events and initiatives.*
+
+---
+
+### 🤖 **Organizer, EWU National Robo Fest 2024**  
+📅 *Awarded: October 2024*  
+⚙️ *Led the organization of a national-level robotics fest, fostering innovation and technical excellence.*
+
+---
+
+### 🔥 **How to Make it Pop** 🔥
+1. **Dynamic Emoji Usage**: Emojis used for both titles and descriptions give a sense of movement and life to the section.
+2. **Structured Layout**: Breaking down each award with specific bullet points for date and description adds clarity and flow.
+3. **Layered Descriptions**: Each point feels like a step in a story, creating a flowing experience for the reader.
+
+While markdown itself can't render animations, the strategic use of emojis and structured content can simulate a more dynamic experience. For true animations, you would need a platform that supports HTML/CSS or JavaScript.
 
 
 
