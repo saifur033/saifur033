@@ -106,29 +106,39 @@
 
 ---
 
-## 🏆 Awards
+## 🏆 **Awards & Achievements**
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/animations/trophy.gif" alt="Trophy Animation" width="50">
-  <strong>Best Campus Ambassador</strong>  
-  <span style="display:block; font-size:14px; color:#555;">Recognized for outstanding performance in promoting educational initiatives.</span>
-</p>
+<div style="position: relative; padding: 20px; border: 2px solid #4CAF50; border-radius: 10px; animation: glow 1.5s infinite;">
+  <h3 style="color: #4CAF50; font-size: 1.5em;">✨ Best Campus Ambassador</h3>
+  <p style="font-size: 1.1em;">Awarded for exceptional performance in promoting educational programs and engaging the student community.</p>
+</div>
 
----
+<div style="position: relative; padding: 20px; border: 2px solid #2196F3; border-radius: 10px; animation: float 2s infinite;">
+  <h3 style="color: #2196F3; font-size: 1.5em;">🎖️ Best Volunteer Award</h3>
+  <p style="font-size: 1.1em;">Recognized for outstanding contributions and dedication during university events and initiatives.</p>
+</div>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/animations/medal.gif" alt="Medal Animation" width="50">
-  <strong>Best Volunteer Award</strong>  
-  <span style="display:block; font-size:14px; color:#555;">Awarded for exceptional dedication and service during university events.</span>
-</p>
+<div style="position: relative; padding: 20px; border: 2px solid #FF5722; border-radius: 10px; animation: pop 1.2s infinite;">
+  <h3 style="color: #FF5722; font-size: 1.5em;">🤖 Organizer, EWU National Robo Fest 2024</h3>
+  <p style="font-size: 1.1em;">Led the organization of a national-level robotics fest, fostering innovation and technical excellence.</p>
+</div>
 
----
+<style>
+@keyframes glow {
+  0% { box-shadow: 0 0 5px #4CAF50; }
+  50% { box-shadow: 0 0 20px #4CAF50; }
+  100% { box-shadow: 0 0 5px #4CAF50; }
+}
+@keyframes float {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-10px); }
+}
+@keyframes pop {
+  0%, 100% { transform: scale(1); }
+  50% { transform: scale(1.05); }
+}
+</style>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/animations/robot.gif" alt="Robot Animation" width="50">
-  <strong>Organizer, EWU National Robo Fest 2024</strong>  
-  <span style="display:block; font-size:14px; color:#555;">Recognized for successfully promoting robotics and innovation at a national level.</span>
-</p>
 
 
 ---
