@@ -47,29 +47,23 @@
 ## 🛠️ Technical Skills
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Programming-C%20|%20Java%20|%20Python-blue?style=for-the-badge&logo=c&logoColor=white" alt="Programming Languages">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Database-SQL%20|%20MySQL%20|%20PSQL-orange?style=for-the-badge&logo=postgresql&logoColor=white" alt="Database Management">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Design-Canva-lightgreen?style=for-the-badge&logo=canva&logoColor=white" alt="Canva Design">
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Event%20Coordination%20&%20Management-yellow?style=for-the-badge" alt="Event Coordination and Management">
-  <img src="https://img.shields.io/badge/Social%20Media%20Marketing-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Social Media Marketing and Promotion">
-  <img src="https://img.shields.io/badge/Customer%20Relationship%20Management-purple?style=for-the-badge" alt="Customer Relationship Management">
-  <img src="https://img.shields.io/badge/Leadership%20&%20Team%20Collaboration-red?style=for-the-badge" alt="Leadership and Team Collaboration">
-  <img src="https://img.shields.io/badge/Public%20Speaking-teal?style=for-the-badge" alt="Public Speaking">
+  <img src="https://img.shields.io/badge/Event%20Coordination-FF8C00?style=for-the-badge" alt="Event Coordination">
+  <img src="https://img.shields.io/badge/Social%20Media%20Marketing-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Social Media Marketing">
+  <img src="https://img.shields.io/badge/CRM-6A1B9A?style=for-the-badge" alt="Customer Relationship Management">
+  <img src="https://img.shields.io/badge/Leadership-E91E63?style=for-the-badge" alt="Leadership">
+  <img src="https://img.shields.io/badge/Public%20Speaking-00796B?style=for-the-badge" alt="Public Speaking">
 </p>
 
 
