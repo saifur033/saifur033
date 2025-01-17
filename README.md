@@ -11,29 +11,51 @@
 
 ---
 
-## 🚀 Work Experience
-- **Event Navigators** | *Skills Canvas* | *Jan 2025 - Present*  
+## 💼 Work Experience
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Event%20Navigators-007ACC?style=for-the-badge&logo=eventbrite&logoColor=white" alt="Event Navigators">
+</p>
+- **Skills Canvas** | *Jan 2025 - Present*  
   Coordinated events to ensure seamless execution and client satisfaction. Developed strategies to improve operational efficiency and event promotion.
-  
-- **Campus Ambassador** | *NWC Education* | *Jan 2025 - Present*  
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Campus%20Ambassador-ff69b4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Campus Ambassador">
+</p>
+- **NWC Education** | *Jan 2025 - Present*  
   Promoted study-abroad opportunities and scholarships among university students.
   
-- **Campus Ambassador Controller** | *Midpoint Matrix* | *Dec 2024 - Present*  
-  Oversaw and managed all Campus Ambassadors under Midpoint Matrix.
-  
-- **Campus Ambassador** | *Smart BeeE BD* | *Dec 2024 - Present*  
+- **Midpoint Matrix** | *Dec 2024 - Present*  
+  Promoted to Campus Ambassador Controller, overseeing and managing all Campus Ambassadors.
+
+- **Smart BeeE BD** | *Dec 2024 - Present*  
   Promoted international study opportunities, including visa guidance and low tuition options.
 
-- **Event Promoter** | *KUET CSE BitFest 2025* | *Nov 2024 - Present*  
-  Enhanced participation and engagement for KUET CSE BitFest 2025.
+- **Unbolt Academy** | *Oct 2024 - Present*  
+  Developed strategies to engage students in skill-building programs at East West University.
 
-- **Campus Ambassador** | *Unbolt Academy* | *Oct 2024 - Present*  
-  Engaged students in skill-building programs at East West University.
+- **BD Calling Academy and IT Ltd** | *Jun 2024 - Present*  
+  Promoted job postings, courses, and career opportunities. Organized workshops and seminars to engage students.
 
-- **Leadership Roles** | *East West University Robotics Club*  
-  - Associate Executive | *Oct 2023 – Jan 2025*  
-    Played a pivotal role in organizing the EWU National Robo Fest 2024.  
-  - Public Relations and Operations Coordinator | *Jan 2025 - Present*
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Event%20Promoter-4CAF50?style=for-the-badge&logo=megaphone&logoColor=white" alt="Event Promoter">
+</p>
+- **KUET CSE BitFest 2025** | *Nov 2024 - Present*  
+  Promoted KUET CSE BitFest 2025, enhancing participation and engagement.
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Leadership%20Roles-f39c12?style=for-the-badge&logo=leadership&logoColor=white" alt="Leadership Roles">
+</p>
+- **East West University Robotics Club**  
+  - **Associate Executive** | *Oct 2023 – Jan 2025*  
+    Played a pivotal role in organizing the EWU National Robo Fest 2024.
+  - **Public Relations and Operations Coordinator** | *Jan 2025 - Present*
 
 ---
 
