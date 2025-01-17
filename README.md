@@ -1,6 +1,13 @@
-# Hi there, I'm Saifur Rahman! 👋
+<h1 align="center">Hi, I'm Saifur Rahman! 👋</h1>
+<p align="center">
+🌟 CSE Undergraduate | 🤖 Robotics Enthusiast | 🌐 Tech Innovator | 🎯 Community Builder
+</p>
 
-### Aspiring to leverage my skills in CRM, sales, and leadership to contribute to organizational growth while enhancing personal and professional development. I aim to bring value to my roles while positively impacting my university community and society at large.
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=Welcome+to+My+GitHub!;Tech+Enthusiast+%F0%9F%9A%80;Passionate+Learner+%F0%9F%93%9A;Always+Open+to+Collaboration+%E2%9C%8F%EF%B8%8F" alt="Typing SVG" />
+</p>
 
 ---
 
