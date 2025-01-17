@@ -13,75 +13,63 @@
 
 ## 💼 Work Experience
 
-### Event Navigators | Skills Canvas  
-*Jan 2025 - Present*  
-- **Role**: Event Coordinator  
-- **Highlights**: 
-  - Spearheaded event planning and execution, ensuring client satisfaction.
-  - Streamlined operations, enhancing event promotion strategies and efficiency.
+---
+
+### 🗓️ **Event Navigators**  
+**Skills Canvas** | *Jan 2025 - Present*  
+- Coordinated events ensuring seamless execution and top-tier client satisfaction.  
+- Developed innovative strategies for operational efficiency and enhanced event promotion.
 
 ---
 
-### Campus Ambassador | NWC Education  
-*Jan 2025 - Present*  
-- **Role**: Promoter of Study Abroad Opportunities  
-- **Highlights**: 
-  - Advocated for international education programs and scholarships.
-  - Engaged with university students to inspire global learning experiences.
+### 🌍 **Campus Ambassador**  
+**NWC Education** | *Jan 2025 - Present*  
+- Promoted study-abroad opportunities, guiding students through scholarships and applications.  
+- Actively engaged with the university community to foster interest in global education.
 
 ---
 
-### Campus Ambassador Controller | Midpoint Matrix  
-*Dec 2024 - Present*  
-- **Role**: Leadership in Ambassador Management  
-- **Highlights**: 
-  - Oversaw a team of Campus Ambassadors, fostering coordination and growth.
-  - Implemented structured reporting systems, boosting team performance.
+### 🎯 **Campus Ambassador Controller**  
+**Midpoint Matrix** | *Dec 2024 - Present*  
+- Led a team of Campus Ambassadors, fostering collaboration and effective communication.  
+- Streamlined reporting and performance tracking to boost team productivity and success.
 
 ---
 
-### Campus Ambassador | Smart BeeE BD  
-*Dec 2024 - Present*  
-- **Role**: Promoter of International Study  
-- **Highlights**: 
-  - Guided students on visa processes and affordable education options abroad.
-  - Increased brand visibility through effective campus engagements.
+### 🚀 **Campus Ambassador**  
+**Smart BeeE BD** | *Dec 2024 - Present*  
+- Advocated for international education, providing guidance on visa processes and affordable tuition.  
+- Enhanced visibility through targeted campus campaigns and student engagement initiatives.
 
 ---
 
-### Event Promoter | KUET CSE BitFest 2025  
-*Nov 2024 - Present*  
-- **Role**: Event Promotion Specialist  
-- **Highlights**: 
-  - Amplified student participation in KUET CSE BitFest 2025.
-  - Orchestrated marketing campaigns to maximize event outreach.
+### 🎤 **Event Promoter**  
+**KUET CSE BitFest 2025** | *Nov 2024 - Present*  
+- Spearheaded promotion efforts for KUET CSE BitFest 2025, driving student participation and interest.  
+- Designed and executed comprehensive marketing strategies to ensure event success.
 
 ---
 
-### Campus Ambassador | Unbolt Academy  
-*Oct 2024 - Present*  
-- **Role**: Skill-Building Advocate  
-- **Highlights**: 
-  - Drove student involvement in academic and professional development programs.
-  - Established strong connections between students and industry opportunities.
+### 💡 **Campus Ambassador**  
+**Unbolt Academy** | *Oct 2024 - Present*  
+- Encouraged student involvement in skill-building programs, enhancing career readiness.  
+- Fostered partnerships between students and industry leaders for mutual growth.
 
 ---
 
-### Campus Ambassador | BD Calling Academy and IT Ltd  
-*Jun 2024 - Present*  
-- **Role**: Career Opportunities Promoter  
-- **Highlights**: 
-  - Coordinated workshops, job fairs, and career guidance sessions.
-  - Strengthened communication between students and career services.
+### 💼 **Campus Ambassador**  
+**BD Calling Academy and IT Ltd** | *Jun 2024 - Present*  
+- Promoted job postings, courses, and career events, bridging gaps between academia and industry.  
+- Organized impactful workshops and seminars to empower students with essential skills.
 
 ---
 
-### Leadership Roles | East West University Robotics Club  
+### 🤖 **Leadership Roles**  
+**East West University Robotics Club**  
 - **Associate Executive** | *Oct 2023 – Jan 2025*  
-  - Key organizer of the EWU National Robo Fest 2024, promoting robotics and innovation.
-  
+  - Instrumental in organizing EWU National Robo Fest 2024, promoting robotics and innovation.  
 - **Public Relations and Operations Coordinator** | *Jan 2025 - Present*  
-  - Managed public relations, ensuring smooth operation of club activities and events.
+  - Managed public relations, ensuring smooth execution of club events and activities.
 
 
 ---
