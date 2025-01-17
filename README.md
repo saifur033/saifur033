@@ -128,12 +128,6 @@
 
 ---
 
-### 🔥 **How to Make it Pop** 🔥
-1. **Dynamic Emoji Usage**: Emojis used for both titles and descriptions give a sense of movement and life to the section.
-2. **Structured Layout**: Breaking down each award with specific bullet points for date and description adds clarity and flow.
-3. **Layered Descriptions**: Each point feels like a step in a story, creating a flowing experience for the reader.
-
-While markdown itself can't render animations, the strategic use of emojis and structured content can simulate a more dynamic experience. For true animations, you would need a platform that supports HTML/CSS or JavaScript.
 
 
 
