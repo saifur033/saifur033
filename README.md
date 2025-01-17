@@ -1,60 +1,70 @@
-<h1 align="center">Hi, I'm Saifur Rahman! 👋</h1>
-<p align="center">
-🌟 CSE Undergraduate | 🤖 Robotics Enthusiast | 🌐 Tech Innovator | 🎯 Community Builder
-</p>
+# 👋 Hi, I'm Saifur Rahman (@saifur033)
+
+![Banner](https://via.placeholder.com/1000x250.png?text=Welcome+to+My+GitHub+Profile) <!-- You can replace this with a custom banner -->
+
+## 🌟 About Me
+I'm a passionate **Campus Ambassador**, **Event Coordinator**, and **Public Relations Professional**, striving to create meaningful contributions in CRM, team management, and university engagements.
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=Welcome+to+My+GitHub!;Tech+Enthusiast+%F0%9F%9A%80;Passionate+Learner+%F0%9F%93%9A;Always+Open+to+Collaboration+%E2%9C%8F%EF%B8%8F" alt="Typing SVG" />
-</p>
+## 🏆 Achievements & Experience
+
+### 🚀 Key Achievements
+- 🏅 **Best Campus Ambassador**: Recognized for my impactful work with organizations like Smart BeeE BD, NWC Education, and more.
+- 📌 **Organizer**: Successfully coordinated **East West University National Robo Fest 2024**.
+- 🥇 **Volunteer Excellence**: Received Best Volunteer Award for impactful efforts.
+
+### 💼 Work Experience
+- **Public Relations & Operations Coordinator**: East West University Robotics Club  
+- **Campus Ambassador Controller**: BD Calling Academy & IT Ltd.  
+- **Event Coordinator**: Skills Canvas  
+- **Promoter**: International conferences and events, including KUET CSE BitFest 2025.
 
 ---
 
-## 🧑‍💻 About Me
-- 🎓 **CSE Student** at East West University  
-- 🌱 Currently learning **Machine Learning**, **Full-Stack Development**, and **Cloud Technologies**  
-- 🤝 Open to **collaborations** on impactful projects  
-- 🎯 Active **Public Relations Coordinator** of **EWU Robotics Club** and multiple **Campus Ambassador roles**  
-- 🌍 A community builder who loves organizing tech events and mentoring juniors!
+## 🎓 Education
+🎓 **B.Sc. in Computer Science & Engineering**  
+📍 East West University, Dhaka  
+
+🎓 **Intermediate in Science**  
+📍 Adhypak Abdul Mazid College  
 
 ---
 
-## 🛠️ My Skills
-**Languages:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-**Frameworks & Tools:**  
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+## 🛠️ Technical Skills
+| **Programming** | **Database**  | **Design**  | **Soft Skills**              |
+|------------------|---------------|-------------|------------------------------|
+| C, Java, Python  | SQL, MySQL    | Canva       | Leadership, Public Speaking  |
+| HTML, CSS        | PostgreSQL    | Figma       | Event & Team Management      |
 
 ---
 
-## 🚀 What I Do
-- **Robotics:** Designing and programming bots with Arduino and Raspberry Pi  
-- **Web Development:** Building responsive and dynamic web applications  
-- **Community Leadership:** Organizing hackathons, tech seminars, and mentoring peers  
+## 📬 Connect with Me
+### 💌 Email: [saifur3734@gmail.com](mailto:saifur3734@gmail.com)
+### 🔗 Social Profiles:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Saifur%20Rahman-blue?logo=linkedin)](https://www.linkedin.com/in/saifur-rahman-3734saif/)  
+[![Facebook](https://img.shields.io/badge/Facebook-Saifur%20Rahman-blue?logo=facebook)](https://www.facebook.com/saifur.rahman.saif3734)  
 
 ---
 
-## 📈 GitHub Stats  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saifur033&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saifur033&theme=radical" alt="Streak Stats" height="150" />
-</div>
+## 📊 GitHub Stats
+![Saifur's GitHub stats](https://github-readme-stats.vercel.app/api?username=saifur033&show_icons=true&theme=radical)
 
 ---
 
-## 🌐 Connect with Me  
-<p align="center">
-  <a href="mailto:saifur.rahman@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/saifurrahman"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/saifur033"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-</p>
+## 🌟 Fun Fact
+✨ I thrive on engaging university communities in innovative events and skill-building activities!  
 
 ---
 
-✨ *"Exploring, Innovating, and Inspiring every day!"*
+## 📂 Featured Projects
+Here are some of the projects I've been working on:
+- 🛠️ [Project Name 1](#) – Short description.  
+- 🌐 [Project Name 2](#) – Short description.  
+- 💡 [Project Name 3](#) – Short description.  
+
+---
+
+## 🔗 Let’s Collaborate!
+I'm open to working on projects in **CRM strategies**, **team engagement**, and **event management**. Let's make an impact together!
+
