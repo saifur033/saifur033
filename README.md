@@ -107,9 +107,29 @@
 ---
 
 ## 🏆 Awards
-- **Best Campus Ambassador**  
-- **Best Volunteer Award**  
-- **Organized EWU National Robo Fest 2024**, promoting robotics and innovation.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/animations/trophy.gif" alt="Trophy Animation" width="50">
+  <strong>Best Campus Ambassador</strong>  
+  <span style="display:block; font-size:14px; color:#555;">Recognized for outstanding performance in promoting educational initiatives.</span>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/animations/medal.gif" alt="Medal Animation" width="50">
+  <strong>Best Volunteer Award</strong>  
+  <span style="display:block; font-size:14px; color:#555;">Awarded for exceptional dedication and service during university events.</span>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/animations/robot.gif" alt="Robot Animation" width="50">
+  <strong>Organizer, EWU National Robo Fest 2024</strong>  
+  <span style="display:block; font-size:14px; color:#555;">Recognized for successfully promoting robotics and innovation at a national level.</span>
+</p>
+
 
 ---
 
