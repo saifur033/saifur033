@@ -24,7 +24,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Campus%20Ambassador-ff69b4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Campus Ambassador">
 </p>
-- **NWC Education** | *Jan 2025 - Present*  
+- **NWC Education**| *Jan 2025 - Present*  
   Promoted study-abroad opportunities and scholarships among university students.
   
 - **Midpoint Matrix** | *Dec 2024 - Present*  
