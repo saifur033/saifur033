@@ -129,15 +129,7 @@
   50% { box-shadow: 0 0 20px #4CAF50; }
   100% { box-shadow: 0 0 5px #4CAF50; }
 }
-@keyframes float {
-  0%, 100% { transform: translateY(0); }
-  50% { transform: translateY(-10px); }
-}
-@keyframes pop {
-  0%, 100% { transform: scale(1); }
-  50% { transform: scale(1.05); }
-}
-</style>
+
 
 
 
