@@ -43,15 +43,20 @@
 
 ---
 
+
 ## 🛠️ Technical Skills
-- **Canva Design**  
-- **Event Coordination and Management**  
-- **Social Media Marketing and Promotion**  
-- **Customer Relationship Management**  
-- **Leadership and Team Collaboration**  
-- **Public Speaking**  
-- **Programming Languages**: C, Java, Python  
-- **Database Management**: SQL, MySQL (PSQL)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Programming-C%20|%20Java%20|%20Python-blue?style=for-the-badge&logo=c&logoColor=white" alt="Programming Languages">
+  <img src="https://img.shields.io/badge/Database-SQL%20|%20MySQL%20|%20PSQL-orange?style=for-the-badge&logo=postgresql&logoColor=white" alt="Database Management">
+  <img src="https://img.shields.io/badge/Design-Canva-lightgreen?style=for-the-badge&logo=canva&logoColor=white" alt="Canva Design">
+  <img src="https://img.shields.io/badge/Event%20Coordination%20&%20Management-yellow?style=for-the-badge" alt="Event Coordination and Management">
+  <img src="https://img.shields.io/badge/Social%20Media%20Marketing-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Social Media Marketing and Promotion">
+  <img src="https://img.shields.io/badge/CRM-purple?style=for-the-badge" alt="Customer Relationship Management">
+  <img src="https://img.shields.io/badge/Leadership%20&%20Team%20Collaboration-red?style=for-the-badge" alt="Leadership and Team Collaboration">
+  <img src="https://img.shields.io/badge/Public%20Speaking-teal?style=for-the-badge" alt="Public Speaking">
+</p>
+
 
 ---
 
